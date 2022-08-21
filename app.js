@@ -5,5 +5,5 @@ document.getElementById("ofcourse").addEventListener('click', function () {
     document.getElementById("msg").innerText = "I Love You Most 😘";
 })
 document.getElementById("no").addEventListener('click', function () {
-    alert("Juta diya Pithamu 😤😡😈");
+     alert("Haddi ektaw asto rakhmu na 😤😡😈");
 })
